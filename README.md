@@ -5,3 +5,4 @@ This is a modified version of [Suika's Navigable Rivers](https://steamcommunity.
 - Two new canals: Volga-Don Canal connecting Black Sea and Caspian Sea, and Rhine-Maine-Danube Canal connecting North Sea to Black Sea
 - Fixs the map so that armies can still cross rivers without boats
 
+This mod is only compatible to EU4 1.30.\*. 
