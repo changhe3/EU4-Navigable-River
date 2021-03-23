@@ -1,0 +1,19 @@
+main_danube_canal = {
+	province = 66
+	is_canal = yes
+	time = 60
+
+	modifier = {
+		province_trade_power_value = 20
+	}
+}
+
+volga_don_canal = {
+	province = 1971
+	is_canal = yes
+	time = 60
+
+	modifier = {
+		province_trade_power_value = 20
+	}
+}

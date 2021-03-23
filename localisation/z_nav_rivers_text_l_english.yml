@@ -1,0 +1,17 @@
+﻿l_english:
+ great_project_main_danube_canal:0 "Rhine-Main-Danube canal"
+ main_danube_canal:0 "Rhine-Main-Danube canal"
+ main_danube_canal_title:0 "Build Rhine-Main-Danube canal"
+ great_project_volga_don_canal:0 "Vogla-Don canal"
+ volga_don_canal:0 "Vogla-Don canal"
+ volga_don_canal_title:0 "Build Vogla-Don canal"
+
+ construct_main_danube_canal_title:0 "Start the construction of Rhine-Main-Danube canal"
+ construct_main_danube_canal_desc:0 "By connecting Rhine, Main and Danube rivers, ships can travel from North Sea to Black Sea."
+ cancel_main_danube_canal_title:0 "Cancel the construction of Rhine-Main-Danube canal"
+ cancel_main_danube_canal_desc:0 "Cancel the construction of Rhine-Main-Danube canal"
+
+ construct_volga_don_canal_title:0 "Start the construction of Volga-Don canal"
+ construct_volga_don_canal_desc:0 "By connecting Volga and Don rivers, ships can travel from Black Sea to Caspian Sea."
+ cancel_volga_don_canal_title:0 "Cancel the construction of Volga-Don canal"
+ cancel_volga_don_canal_desc:0 "Cancel the construction of Volga-Don canal"
